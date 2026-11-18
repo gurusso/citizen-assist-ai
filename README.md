@@ -26,7 +26,7 @@ Assistente de terminal desenvolvido em Python para a **Global Solution 2026.2 (P
 1. Certifique-se de ter o **Python 3.10+** instalado.
 2. Clone o repositório e acesse a pasta do projeto:
    ```bash
-   git clone https://github.com/SEU-USUARIO/citizen-assist-ai.git
+   git clone https://github.com/gurusso/citizen-assist-ai.git
    cd citizen-assist-ai
    ```
 3. Execute o arquivo principal:
