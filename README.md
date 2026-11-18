@@ -91,6 +91,4 @@ Foram realizados **10 atendimentos** com **3 usuários externos** (sem coleta de
 
 ---
 
-## Vídeo Técnico
 
-- **Link no YouTube (Não Listado):** `https://youtu.be/COLE-AQUI-O-LINK-DO-VIDEO`
