@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "categoria": "Documentação",
+    "titulo": "Emitir ou regularizar o CPF",
+    "palavras_chave": [
+      "cpf",
+      "cadastro de pessoa fisica",
+      "tirar cpf",
+      "regularizar cpf"
+    ],
+    "resposta": "A inscrição e a regularização do CPF podem ser feitas gratuitamente pela internet no site da Receita Federal ou presencialmente em agências dos Correios, Banco do Brasil e Caixa.",
+    "documentos": [
+      "Documento de identificação oficial com foto",
+      "Certidão de nascimento ou casamento",
+      "Título de eleitor (para maiores de 18 anos)"
+    ],
+    "onde": "Site da Receita Federal (gov.br) ou agências conveniadas (Correios, BB, Caixa)",
+    "fonte": "https://www.gov.br/receitafederal/pt-br/assuntos/meu-cpf",
+    "verificado_em": "2026-11-10"
+  },
+  {
+    "id": 2,
+    "categoria": "Documentação",
+    "titulo": "Tirar a Carteira de Identidade Nacional (CIN)",
+    "palavras_chave": [
+      "rg",
+      "identidade",
+      "cin",
+      "carteira de identidade",
+      "primeira via"
+    ],
+    "resposta": "A nova Carteira de Identidade Nacional (CIN) usa o CPF como número único e tem primeira via gratuita em papel ou formato digital no app GOV.BR.",
+    "documentos": [
+      "Certidão de nascimento ou de casamento (original ou autenticada)",
+      "CPF regularizado"
+    ],
+    "onde": "Postos de identificação estaduais (ex.: Poupatempo, Vapt Vupt, SAC)",
+    "fonte": "https://www.gov.br/governodigital/pt-br/identidade/identificacao-do-cidadao-e-carteira-de-identidade-nacional",
+    "verificado_em": "2026-11-10"
+  },
+  {
+    "id": 3,
+    "categoria": "Documentação",
+    "titulo": "Tirar o Título de Eleitor pela internet",
+    "palavras_chave": [
+      "titulo de eleitor",
+      "titulo eleitoral",
+      "alistamento eleitoral",
+      "votar"
+    ],
+    "resposta": "Jovens a partir de 15 anos podem solicitar o primeiro título pelo sistema Título Net do TSE, sem precisar ir ao cartório eleitoral se já tiverem biometria cadastrada.",
+    "documentos": [
+      "Documento oficial de identificação com foto (frente e verso)",
+      "Comprovante de residência recente",
+      "Comprovante de quitação militar (homens no ano em que completam 19 anos)"
+    ],
+    "onde": "Portal Autoatendimento Eleitoral do TSE ou Cartório Eleitoral",
+    "fonte": "https://www.tse.jus.br/servicos-eleitorais/autoatendimento-eleitoral",
+    "verificado_em": "2026-11-10"
+  },
+  {
+    "id": 4,
+    "categoria": "Documentação",
+    "titulo": "Fazer o Cartão Nacional de Saúde (Cartão SUS)",
+    "palavras_chave": [
+      "cartao sus",
+      "cartao do sus",
+      "sus",
+      "cns"
+    ],
+    "resposta": "O Cartão SUS pode ser emitido na hora em qualquer Unidade Básica de Saúde (UBS) ou consultado diretamente pelo aplicativo Meu SUS Digital usando sua conta GOV.BR.",
+    "documentos": [
+      "Documento oficial com foto",
+      "CPF",
+      "Comprovante de residência"
+    ],
+    "onde": "Qualquer UBS ou aplicativo Meu SUS Digital",
+    "fonte": "https://www.gov.br/saude/pt-br/acesso-a-informacao/acoes-e-programas/cns",
+    "verificado_em": "2026-11-10"
+  },
+  {
+    "id": 5,
+    "categoria": "Trabalho",
+    "titulo": "Emitir a Carteira de Trabalho Digital (CTPS)",
+    "palavras_chave": [
+      "carteira de trabalho",
+      "ctps",
+      "ctps digital",
+      "trabalho digital"
+    ],
+    "resposta": "A Carteira de Trabalho Digital substitui o documento físico para contratações. Basta baixar o aplicativo oficial e entrar com o CPF e a senha da conta GOV.BR.",
+    "documentos": [
+      "CPF",
+      "Conta GOV.BR ativa"
+    ],
+    "onde": "Aplicativo Carteira de Trabalho Digital (Android/iOS) ou portal gov.br",
+    "fonte": "https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho",
+    "verificado_em": "2026-11-10"
+  },
+  {
+    "id": 6,
+    "categoria": "Trabalho",
+    "titulo": "Inscrever-se no programa Jovem Aprendiz",
+    "palavras_chave": [
+      "jovem aprendiz",
+      "menor aprendiz",
+      "primeiro emprego",
+      "aprendizagem"
+    ],
+    "resposta": "Jovens de 14 a 24 anos que estejam cursando ou tenham concluído o ensino fundamental ou médio podem se candidatar a vagas de aprendizagem com carteira assinada e curso de capacitação.",
+    "documentos": [
+      "CPF e RG",
+      "Carteira de Trabalho Digital",
+      "Declaração de matrícula ou histórico escolar"
+    ],
+    "onde": "Portal Emprega Brasil, CIEE, SENAI, SENAC ou diretamente nas empresas",
+    "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/aprendizagem-profissional",
+    "verificado_em": "2026-11-10"
+  },
+  {
+    "id": 7,
+    "categoria": "Trabalho",
+    "titulo": "Consultar o número do PIS/PASEP",
+    "palavras_chave": [
+      "pis",
+      "pasep",
+      "numero do pis",
+      "nis"
+    ],
+    "resposta": "O número do PIS/PASEP é gerado automaticamente no primeiro registro em carteira e aparece na aba Contratos da Carteira de Trabalho Digital ou no app Meu INSS.",
+    "documentos": [
+      "CPF",
+      "Senha da conta GOV.BR"
+    ],
+    "onde": "Aplicativo Carteira de Trabalho Digital, Meu INSS ou Caixa Trabalhador",
+    "fonte": "https://www.gov.br/pt-br/servicos/consultar-dados-do-pis",
+    "verificado_em": "2026-11-10"
+  },
+  {
+    "id": 8,
+    "categoria": "Direitos e Benefícios",
+    "titulo": "Solicitar a ID Jovem (meia-entrada e transporte)",
+    "palavras_chave": [
+      "id jovem",
+      "meia entrada",
+      "viagem gratuita",
+      "identidade jovem"
+    ],
+    "resposta": "A Identidade Jovem garante meia-entrada em eventos culturais/esportivos e vagas gratuitas ou com desconto em ônibus interestaduais para jovens de 15 a 29 anos inscritos no CadÚnico.",
+    "documentos": [
+      "Número de Identificação Social (NIS)",
+      "Nome completo e data de nascimento iguais ao CadÚnico"
+    ],
+    "onde": "Site ou aplicativo oficial ID Jovem",
+    "fonte": "https://www.gov.br/mds/pt-br/acoes-e-programas/inclusao-produtiva-urbana/id-jovem",
+    "verificado_em": "2026-11-10"
+  },
+  {
+    "id": 9,
+    "categoria": "Direitos e Benefícios",
+    "titulo": "Fazer o Alistamento Militar Obrigatório",
+    "palavras_chave": [
+      "alistamento militar",
+      "exercito",
+      "reservista",
+      "servico militar"
+    ],
+    "resposta": "Jovens do sexo masculino devem realizar o alistamento obrigatório entre 1º de janeiro e 30 de junho do ano em que completam 18 anos, pela internet ou na Junta de Serviço Militar.",
+    "documentos": [
+      "CPF",
+      "Documento oficial com foto",
+      "Comprovante de residência"
+    ],
+    "onde": "Site alistamento.eb.mil.br ou Junta de Serviço Militar do município",
+    "fonte": "https://alistamento.eb.mil.br/",
+    "verificado_em": "2026-11-10"
+  },
+  {
+    "id": 10,
+    "categoria": "Direitos e Benefícios",
+    "titulo": "Registrar reclamação de compra online no Consumidor.gov.br",
+    "palavras_chave": [
+      "compra online",
+      "reclamacao",
+      "procon",
+      "produto nao entregue",
+      "estorno"
+    ],
+    "resposta": "Se uma loja não entregar o produto ou recusar o direito de arrependimento em até 7 dias, você pode abrir uma reclamação gratuita com prazo de resposta de até 10 dias.",
+    "documentos": [
+      "Número do pedido ou nota fiscal",
+      "Comprovante de pagamento",
+      "Prints da tentativa de contato com a loja"
+    ],
+    "onde": "Plataforma Consumidor.gov.br ou Procon do seu estado",
+    "fonte": "https://www.consumidor.gov.br/",
+    "verificado_em": "2026-11-10"
+  }
+]
